@@ -1,5 +1,4 @@
-## python-project
-Python Fundamentals - Final Project
+## Python Fundamentals - Final Project
 
 Project List :
 Create a Jupyter notebook titled: “Python Fundamentals - Final Project”.
